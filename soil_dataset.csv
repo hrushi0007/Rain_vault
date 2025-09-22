@@ -1,0 +1,661 @@
+State,District,Soil Type
+Andhra Pradesh,,
+Andhra Pradesh,Anantapur,Alluvial
+Andhra Pradesh,Chittoor,Alluvial
+Andhra Pradesh,East Godavari,Alluvial
+Andhra Pradesh,Guntur,Loamy
+Andhra Pradesh,Krishna,Loamy
+Andhra Pradesh,Kurnool,Loamy
+Andhra Pradesh,Nellore,Alluvial
+Andhra Pradesh,Prakasam,Alluvial
+Andhra Pradesh,Srikakulam,Loamy
+Andhra Pradesh,Visakhapatnam,Loamy
+Andhra Pradesh,Vizianagaram,Loamy
+Andhra Pradesh,West Godavari,Alluvial
+Andhra Pradesh,YSR Kadapa,Loamy
+Telangana,,
+Telangana,Adilabad,Clayey
+Telangana,Bhadradri Kotha,Loamy
+Telangana,Hyderabad,Loamy
+Telangana,Jagtial,Clayey
+Telangana,Jangaon,Loamy
+Telangana,Jayashankar Bh,Loamy
+Telangana,Jogulamba Gad,Clayey
+Telangana,Kamareddy,Loamy
+Telangana,Karimnagar,Loamy
+Telangana,Khammam,Clayey
+Telangana,Mahabubnagar,Clayey
+Telangana,Medak,Clayey
+Telangana,Medchal–Malkaj,Loamy
+Telangana,Nagarkurnool,Clayey
+Telangana,Nalgonda,Clayey
+Telangana,Nirmal,Loamy
+Telangana,Nizamabad,Loamy
+Telangana,Peddapalli,Loamy
+Telangana,Rajanna Sircilla,Loamy
+Telangana,Rangareddy,Clayey
+Telangana,Sangareddy,Clayey
+Telangana,Siddipet,Clayey
+Telangana,Suryapet,Clayey
+Telangana,Vikarabad,Loamy
+Telangana,Warangal (Rural,Loamy
+Telangana,Warangal (Urba,Loamy
+Telangana,Yadadri Bhuvan,Clayey
+Maharashtra,,
+Maharashtra,Ahmednagar,Clayey
+Maharashtra,Akola,Gravel
+Maharashtra,Amravati,Clayey
+Maharashtra,Aurangabad,Clayey
+Maharashtra,Beed,Gravel
+Maharashtra,Bhandara,Gravel
+Maharashtra,Buldhana,Gravel
+Maharashtra,Chandrapur,Loamy
+Maharashtra,Dhule,Loamy
+Maharashtra,Gadchiroli,Clayey
+Maharashtra,Gondia,Gravel
+Maharashtra,Hingoli,Clayey
+Maharashtra,Jalgaon,Loamy
+Maharashtra,Jalna,Gravel
+Maharashtra,Kolhapur,Gravel
+Maharashtra,Latur,Clayey
+Maharashtra,Mumbai City,Gravel
+Maharashtra,Mumbai Suburb,Clayey
+Maharashtra,Nagpur,Clayey
+Maharashtra,Nanded,Loamy
+Maharashtra,Nandurbar,Loamy
+Maharashtra,Nashik,Clayey
+Maharashtra,Osmanabad,Gravel
+Maharashtra,Palghar,Clayey
+Maharashtra,Parbhani,Clayey
+Maharashtra,Pune,Clayey
+Maharashtra,Raigad,Loamy
+Maharashtra,Ratnagiri,Loamy
+Maharashtra,Sangli,Gravel
+Maharashtra,Satara,Clayey
+Maharashtra,Sindhudurg,Clayey
+Maharashtra,Solapur,Loamy
+Maharashtra,Thane,Loamy
+Maharashtra,Wardha,Clayey
+Maharashtra,Washim,Clayey
+Maharashtra,Yavatmal,Gravel
+Kerala,,
+Kerala,Alappuzha,Gravel
+Kerala,Ernakulam,Clayey
+Kerala,Idukki,Clayey
+Kerala,Kannur,Alluvial
+Kerala,Kasaragod,Gravel
+Kerala,Kollam,Alluvial
+Kerala,Kottayam,Clayey
+Kerala,Kozhikode,Clayey
+Kerala,Malappuram,Gravel
+Kerala,Palakkad,Clayey
+Kerala,Pathanamthitta,Clayey
+Kerala,Thiruvananthapu,Clayey
+Kerala,Thrissur,Clayey
+Kerala,Wayanad,Gravel
+Tamil Nadu,Erode,Loamy
+Tamil Nadu,Kallakurichi,Loamy
+Tamil Nadu,Kanchipuram,Loamy
+Tamil Nadu,Kanyakumari,Loamy
+Tamil Nadu,Karur,Loamy
+Tamil Nadu,Krishnagiri,Loamy
+Tamil Nadu,Madurai,Clayey
+Tamil Nadu,Nagapattinam,Alluvial
+Tamil Nadu,Namakkal,Loamy
+Tamil Nadu,Nilgiris,Loamy
+Tamil Nadu,Perambalur,Clayey
+Tamil Nadu,Pudukkottai,Loamy
+Tamil Nadu,Ramanathapura,Clayey
+Tamil Nadu,Ranipet,Loamy
+Tamil Nadu,Salem,Clayey
+Tamil Nadu,Sivaganga,Loamy
+Tamil Nadu,Tenkasi,Loamy
+Tamil Nadu,Thanjavur,Alluvial
+Tamil Nadu,Theni,Loamy
+Tamil Nadu,Thoothukudi,Clayey
+Tamil Nadu,Tiruchirappalli,Loamy
+Tamil Nadu,Tirunelveli,Loamy
+Tamil Nadu,Tirupattur,Loamy
+Tamil Nadu,Tiruppur,Loamy
+Tamil Nadu,Tiruvallur,Loamy
+Tamil Nadu,Tiruvannamalai,Loamy
+Tamil Nadu,Tiruvarur,Alluvial
+Tamil Nadu,Vellore,Loamy
+Tamil Nadu,Viluppuram,Loamy
+Tamil Nadu,Virudhunagar,Clayey
+Karnataka,,
+Karnataka,Bagalkot,Clayey
+Karnataka,Ballari,Clayey
+Karnataka,Belagavi,Clayey
+Karnataka,Bengaluru Rural,Loamy
+Karnataka,Bengaluru Urba,Loamy
+Karnataka,Bidar,Clayey
+Karnataka,Chamarajanaga,Loamy
+Karnataka,Chikkaballapur,Loamy
+Karnataka,Chikkamagaluru,Loamy
+Karnataka,Chitradurga,Loamy
+Karnataka,Dakshina Kanna,Gravel
+Karnataka,Davanagere,Clayey
+Karnataka,Dharwad,Clayey
+Karnataka,Gadag,Clayey
+Karnataka,Hassan,Loamy
+Karnataka,Haveri,Clayey
+Karnataka,Kalaburagi,Clayey
+Karnataka,Kodagu,Loamy
+Karnataka,Kolar,Loamy
+Karnataka,Koppal,Clayey
+Karnataka,Mandya,Loamy
+Karnataka,Mysuru,Loamy
+Karnataka,Raichur,Clayey
+Karnataka,Ramanagara,Loamy
+Karnataka,Shivamogga,Loamy
+Karnataka,Tumakuru,Loamy
+Karnataka,Udupi,Gravel
+Karnataka,Uttara Kannada,Loamy
+Karnataka,Vijayapura,Clayey
+Karnataka,Yadgir,Clayey
+Goa,,
+Goa,North Goa,Gravel
+Goa,South Goa,Gravel
+Odisha,,
+Odisha,Angul,Loamy
+Odisha,Balangir,Loamy
+Odisha,Balasore,Alluvial
+Odisha,Bargarh,Loamy
+Odisha,Bhadrak,Alluvial
+Odisha,Boudh,Loamy
+Odisha,Cuttack,Alluvial
+Odisha,Debagarh,Loamy
+Odisha,Dhenkanal,Loamy
+Odisha,Gajapati,Loamy
+Odisha,Ganjam,Loamy
+Odisha,Jagatsinghpur,Alluvial
+Odisha,Jajpur,Alluvial
+Odisha,Jharsuguda,Loamy
+Odisha,Kalahandi,Loamy
+Odisha,Kandhamal,Loamy
+Odisha,Kendrapara,Alluvial
+Odisha,Kendujhar,Loamy
+Odisha,Khordha,Alluvial
+Odisha,Koraput,Loamy
+Odisha,Malkangiri,Loamy
+Odisha,Mayurbhanj,Loamy
+Odisha,Nabarangpur,Loamy
+Odisha,Nayagarh,Loamy
+Odisha,Nuapada,Loamy
+Odisha,Puri,Alluvial
+Odisha,Rayagada,Loamy
+Odisha,Sambalpur,Loamy
+Odisha,Subarnapur,Loamy
+Odisha,Sundargarh,Loamy
+Chhattisgarh,,
+Chhattisgarh,Balod,Clayey
+Chhattisgarh,Baloda Bazar,Loamy
+Chhattisgarh,Balrampur,Loamy
+Chhattisgarh,Bastar,Loamy
+Chhattisgarh,Bemetara,Clayey
+Chhattisgarh,Bijapur,Loamy
+Chhattisgarh,Bilaspur,Clayey
+Chhattisgarh,Dantewada,Loamy
+Chhattisgarh,Dhamtari,Loamy
+Chhattisgarh,Durg,Clayey
+Chhattisgarh,Gariaband,Loamy
+Chhattisgarh,Janjgir-Champa,Clayey
+Chhattisgarh,Jashpur,Loamy
+Chhattisgarh,Kabirdham,Clayey
+Chhattisgarh,Kanker,Loamy
+Chhattisgarh,Kondagaon,Loamy
+Chhattisgarh,Korba,Loamy
+Chhattisgarh,Koriya,Loamy
+Chhattisgarh,Mahasamund,Loamy
+Chhattisgarh,Mungeli,Loamy
+Chhattisgarh,Narayanpur,Loamy
+Chhattisgarh,Raigarh,Loamy
+Chhattisgarh,Raipur,Loamy
+Chhattisgarh,Rajnandgaon,Clayey
+Chhattisgarh,Sukma,Loamy
+Chhattisgarh,Surajpur,Loamy
+Chhattisgarh,Surguja,Loamy
+West Bengal,,
+West Bengal,Alipurduar,Alluvial
+West Bengal,Bankura,Loamy
+West Bengal,Birbhum,Gravel
+West Bengal,Cooch Behar,Alluvial
+West Bengal,Dakshin Dinajpu,Alluvial
+West Bengal,Darjeeling,Loamy
+West Bengal,Hooghly,Alluvial
+West Bengal,Howrah,Alluvial
+West Bengal,Jalpaiguri,Alluvial
+West Bengal,Jhargram,Gravel
+West Bengal,Kalimpong,Loamy
+West Bengal,Kolkata,Alluvial
+West Bengal,Malda,Alluvial
+West Bengal,Murshidabad,Alluvial
+West Bengal,Nadia,Alluvial
+West Bengal,North 24 Pargan,Alluvial
+West Bengal,Paschim Bardha,Gravel
+West Bengal,Paschim Medini,Gravel
+West Bengal,Purba Bardham,Alluvial
+West Bengal,Purba Medinipur,Alluvial
+West Bengal,Purulia,Gravel
+West Bengal,South 24 Pargan,Alluvial
+West Bengal,Uttar Dinajpur,Alluvial
+Jharkhand,,
+Jharkhand,Bokaro,Clayey
+Jharkhand,Chatra,Loamy
+Jharkhand,Deoghar,Gravel
+Jharkhand,Dhanbad,Clayey
+Jharkhand,Dumka,Gravel
+Jharkhand,East Singhbhum,Gravel
+Jharkhand,Garhwa,Loamy
+Jharkhand,Giridih,Gravel
+Jharkhand,Godda,Gravel
+Jharkhand,Gumla,Loamy
+Jharkhand,Hazaribagh,Loamy
+Jharkhand,Jamtara,Gravel
+Jharkhand,Khunti,Gravel
+Jharkhand,Koderma,Gravel
+Jharkhand,Latehar,Loamy
+Jharkhand,Lohardaga,Loamy
+Jharkhand,Pakur,Gravel
+Jharkhand,Palamu,Loamy
+Jharkhand,Ramgarh,Clayey
+Jharkhand,Ranchi,Gravel
+Jharkhand,Sahebganj,Gravel
+Jharkhand,Seraikela Khars,Gravel
+Jharkhand,Simdega,Loamy
+Jharkhand,West Singhbhum,Gravel
+Bihar,,
+Bihar,Araria,Alluvial
+Bihar,Arwal,Alluvial
+Bihar,Aurangabad,Alluvial
+Bihar,Banka,Loamy
+Bihar,Begusarai,Alluvial
+Bihar,Bhagalpur,Alluvial
+Bihar,Bhojpur,Alluvial
+Bihar,Buxar,Alluvial
+Bihar,Darbhanga,Alluvial
+Bihar,East Champaran,Alluvial
+Bihar,Gaya,Alluvial
+Bihar,Gopalganj,Alluvial
+Bihar,Jamui,Loamy
+Bihar,Jehanabad,Alluvial
+Bihar,Kaimur,Alluvial
+Bihar,Katihar,Alluvial
+Bihar,Khagaria,Alluvial
+Bihar,Kishanganj,Alluvial
+Bihar,Lakhisarai,Alluvial
+Bihar,Madhepura,Alluvial
+Bihar,Madhubani,Alluvial
+Bihar,Munger,Alluvial
+Bihar,Muzaffarpur,Alluvial
+Bihar,Nalanda,Alluvial
+Bihar,Nawada,Alluvial
+Bihar,Patna,Alluvial
+Bihar,Purnia,Alluvial
+Bihar,Rohtas,Alluvial
+Bihar,Saharsa,Alluvial
+Bihar,Samastipur,Alluvial
+Bihar,Saran,Alluvial
+Bihar,Sheikhpura,Alluvial
+Bihar,Sheohar,Alluvial
+Bihar,Sitamarhi,Alluvial
+Bihar,Siwan,Alluvial
+Bihar,Supaul,Alluvial
+Bihar,Vaishali,Alluvial
+Bihar,West Champara,Alluvial
+Uttar Pradesh,,
+Uttar Pradesh,Agra,Alluvial
+Uttar Pradesh,Aligarh,Alluvial
+Uttar Pradesh,Ambedkar Naga,Alluvial
+Uttar Pradesh,Amethi,Alluvial
+Uttar Pradesh,Amroha,Alluvial
+Uttar Pradesh,Auraiya,Alluvial
+Uttar Pradesh,Ayodhya,Alluvial
+Uttar Pradesh,Azamgarh,Alluvial
+Uttar Pradesh,Baghpat,Alluvial
+Uttar Pradesh,Bahraich,Alluvial
+Uttar Pradesh,Ballia,Alluvial
+Uttar Pradesh,Balrampur,Alluvial
+Uttar Pradesh,Banda,Clayey
+Uttar Pradesh,Barabanki,Alluvial
+Uttar Pradesh,Bareilly,Alluvial
+Uttar Pradesh,Basti,Alluvial
+Uttar Pradesh,Bhadohi,Alluvial
+Uttar Pradesh,Bijnor,Loamy
+Uttar Pradesh,Budaun,Alluvial
+Uttar Pradesh,Bulandshahr,Alluvial
+Uttar Pradesh,Chandauli,Loamy
+Uttar Pradesh,Chitrakoot,Loamy
+Uttar Pradesh,Deoria,Alluvial
+Uttar Pradesh,Etah,Alluvial
+Uttar Pradesh,Etawah,Alluvial
+Uttar Pradesh,Farrukhabad,Alluvial
+Uttar Pradesh,Fatehpur,Alluvial
+Uttar Pradesh,Firozabad,Alluvial
+Uttar Pradesh,Gautam Buddh,Alluvial
+Uttar Pradesh,Ghaziabad,Alluvial
+Uttar Pradesh,Ghazipur,Alluvial
+Uttar Pradesh,Gonda,Alluvial
+Uttar Pradesh,Gorakhpur,Alluvial
+Uttar Pradesh,Hamirpur,Clayey
+Uttar Pradesh,Hapur,Alluvial
+Uttar Pradesh,Hardoi,Alluvial
+Uttar Pradesh,Hathras,Alluvial
+Uttar Pradesh,Jalaun,Clayey
+Uttar Pradesh,Jaunpur,Alluvial
+Uttar Pradesh,Jhansi,Clayey
+Uttar Pradesh,Kannauj,Alluvial
+Uttar Pradesh,Kanpur Dehat,Alluvial
+Uttar Pradesh,Kanpur Nagar,Alluvial
+Uttar Pradesh,Kasganj,Alluvial
+Uttar Pradesh,Kaushambi,Alluvial
+Uttar Pradesh,Kheri,Alluvial
+Uttar Pradesh,Kushinagar,Alluvial
+Uttar Pradesh,Lalitpur,Loamy
+Uttar Pradesh,Lucknow,Alluvial
+Uttar Pradesh,Maharajganj,Alluvial
+Uttar Pradesh,Mahoba,Clayey
+Uttar Pradesh,Mainpuri,Alluvial
+Uttar Pradesh,Mathura,Sandy
+Uttar Pradesh,Mau,Alluvial
+Uttar Pradesh,Meerut,Alluvial
+Uttar Pradesh,Mirzapur,Loamy
+Uttar Pradesh,Moradabad,Alluvial
+Uttar Pradesh,Muzaffarnagar,Alluvial
+Uttar Pradesh,Pilibhit,Alluvial
+Uttar Pradesh,Pratapgarh,Alluvial
+Uttar Pradesh,Prayagraj,Alluvial
+Uttar Pradesh,Raebareli,Alluvial
+Uttar Pradesh,Rampur,Alluvial
+Uttar Pradesh,Saharanpur,Alluvial
+Uttar Pradesh,Sambhal,Alluvial
+Uttar Pradesh,Sant Kabir Naga,Alluvial
+Uttar Pradesh,Shahjahanpur,Alluvial
+Uttar Pradesh,Shamli,Alluvial
+Uttar Pradesh,Shrawasti,Alluvial
+Uttar Pradesh,Siddharthnagar,Alluvial
+Uttar Pradesh,Sitapur,Alluvial
+Uttar Pradesh,Sonbhadra,Loamy
+Uttar Pradesh,Sultanpur,Alluvial
+Uttar Pradesh,Unnao,Alluvial
+Uttar Pradesh,Varanasi,Alluvial
+Uttarakhand,,
+Uttarakhand,Almora,Loamy
+Uttarakhand,Bageshwar,Loamy
+Uttarakhand,Chamoli,Loamy
+Uttarakhand,Champawat,Loamy
+Uttarakhand,Dehradun,Loamy
+Uttarakhand,Haridwar,Alluvial
+Uttarakhand,Nainital,Loamy
+Uttarakhand,Pauri Garhwal,Loamy
+Uttarakhand,Pithoragarh,Loamy
+Uttarakhand,Rudraprayag,Loamy
+Uttarakhand,Tehri Garhwal,Loamy
+Uttarakhand,Udham Singh N,Alluvial
+Uttarakhand,Uttarkashi,Loamy
+Himachal Pradesh,,
+Himachal Prade,Bilaspur,Loamy
+Himachal Prade,Chamba,Loamy
+Himachal Prade,Hamirpur,Loamy
+Himachal Prade,Kangra,Loamy
+Himachal Prade,Kinnaur,Loamy
+Himachal Prade,Kullu,Loamy
+Himachal Prade,Lahaul and Spiti,Loamy
+Himachal Prade,Mandi,Loamy
+Himachal Prade,Shimla,Loamy
+Himachal Prade,Sirmaur,Alluvial
+Himachal Prade,Solan,Loamy
+Himachal Prade,Una,Alluvial
+Haryana,,
+Haryana,Ambala,Alluvial
+Haryana,Bhiwani,Alluvial
+Haryana,Charkhi Dadri,Sandy
+Haryana,Faridabad,Alluvial
+Haryana,Fatehabad,Sandy
+Haryana,Gurugram,Alluvial
+Haryana,Hisar,Alluvial
+Haryana,Jhajjar,Alluvial
+Haryana,Jind,Alluvial
+Haryana,Kaithal,Alluvial
+Haryana,Karnal,Alluvial
+Haryana,Kurukshetra,Alluvial
+Haryana,Mahendragarh,Sandy
+Haryana,Mewat,Sandy
+Haryana,Palwal,Alluvial
+Haryana,Panchkula,Loamy
+Haryana,Panipat,Alluvial
+Haryana,Rewari,Sandy
+Haryana,Rohtak,Alluvial
+Haryana,Sirsa,Sandy
+Haryana,Sonipat,Alluvial
+Haryana,Yamunanagar,Alluvial
+Punjab,,
+Punjab,Amritsar,Alluvial
+Punjab,Barnala,Alluvial
+Punjab,Bathinda,Sandy
+Punjab,Faridkot,Sandy
+Punjab,Fatehgarh Sahib,Alluvial
+Punjab,Fazilka,Sandy
+Punjab,Ferozepur,Sandy
+Punjab,Gurdaspur,Alluvial
+Punjab,Hoshiarpur,Alluvial
+Punjab,Jalandhar,Alluvial
+Punjab,Kapurthala,Alluvial
+Punjab,Ludhiana,Alluvial
+Punjab,Mansa,Alluvial
+Punjab,Moga,Alluvial
+Punjab,Muktsar,Sandy
+Punjab,Pathankot,Alluvial
+Punjab,Patiala,Alluvial
+Punjab,Rupnagar,Alluvial
+Punjab,Sahibzada Ajit S,Alluvial
+Punjab,Sangrur,Alluvial
+Punjab,Shahid Bhagat S,Alluvial
+Punjab,Tarn Taran,Alluvial
+Jammu and Kashmir,,
+Jammu and Kas,Anantnag,Loamy
+Jammu and Kas,Bandipora,Loamy
+Jammu and Kas,Baramulla,Loamy
+Jammu and Kas,Budgam,Loamy
+Jammu and Kas,Doda,Loamy
+Jammu and Kas,Ganderbal,Loamy
+Jammu and Kas,Jammu,Loamy
+Jammu and Kas,Kathua,Alluvial
+Jammu and Kas,Kishtwar,Loamy
+Jammu and Kas,Kulgam,Loamy
+Jammu and Kas,Kupwara,Loamy
+Jammu and Kas,Poonch,Loamy
+Jammu and Kas,Pulwama,Loamy
+Jammu and Kas,Rajouri,Loamy
+Jammu and Kas,Ramban,Loamy
+Jammu and Kas,Reasi,Loamy
+Jammu and Kas,Samba,Loamy
+Jammu and Kas,Shopian,Loamy
+Jammu and Kas,Srinagar,Loamy
+Jammu and Kas,Udhampur,Loamy
+Ladakh,,
+Ladakh,Kargil,Sandy
+Ladakh,Leh,Sandy
+Sikkim,,
+Sikkim,East Sikkim,Loamy
+Sikkim,North Sikkim,Loamy
+Sikkim,South Sikkim,Loamy
+Sikkim,West Sikkim,Loamy
+Assam,,
+Assam,Baksa,Alluvial
+Assam,Barpeta,Alluvial
+Assam,Biswanath,Alluvial
+Assam,Bongaigaon,Alluvial
+Assam,Cachar,Alluvial
+Assam,Charaideo,Alluvial
+Assam,Chirang,Alluvial
+Assam,Darrang,Alluvial
+Assam,Dhemaji,Alluvial
+Assam,Dhubri,Alluvial
+Assam,Dibrugarh,Alluvial
+Assam,Dima Hasao,Loamy
+Assam,Goalpara,Alluvial
+Assam,Golaghat,Alluvial
+Assam,Hailakandi,Alluvial
+Assam,Hojai,Alluvial
+Assam,Jorhat,Alluvial
+Assam,Kamrup Metropo,Alluvial
+Assam,Kamrup,Alluvial
+Assam,Karbi Anglong,Loamy
+Assam,Karimganj,Alluvial
+Assam,Kokrajhar,Alluvial
+Assam,Lakhimpur,Alluvial
+Assam,Majuli,Alluvial
+Assam,Morigaon,Alluvial
+Assam,Nagaon,Alluvial
+Assam,Nalbari,Alluvial
+Assam,Sivasagar,Alluvial
+Assam,Sonitpur,Alluvial
+Assam,South Salmara-,Alluvial
+Assam,Tinsukia,Alluvial
+Assam,Udalguri,Alluvial
+Assam,West Karbi Angl,Loamy
+Arunachal Pradesh,,
+Arunachal Prade,Anjaw,Loamy
+Arunachal Prade,Changlang,Loamy
+Arunachal Prade,Dibang Valley,Loamy
+Arunachal Prade,East Kameng,Loamy
+Arunachal Prade,East Siang,Loamy
+Arunachal Prade,Kra Daadi,Loamy
+Arunachal Prade,Kurung Kumey,Loamy
+Arunachal Prade,Lohit,Loamy
+Arunachal Prade,Longding,Loamy
+Arunachal Prade,Lower Dibang V,Loamy
+Arunachal Prade,Lower Subansiri,Loamy
+Arunachal Prade,Namsai,Loamy
+Arunachal Prade,Papum Pare,Loamy
+Arunachal Prade,Siang,Loamy
+Arunachal Prade,Tawang,Loamy
+Arunachal Prade,Tirap,Loamy
+Arunachal Prade,Upper Siang,Loamy
+Arunachal Prade,Upper Subansiri,Loamy
+Arunachal Prade,West Kameng,Loamy
+Arunachal Prade,West Siang,Loamy
+Manipur,,
+Manipur,Bishnupur,Loamy
+Manipur,Chandel,Loamy
+Manipur,Churachandpur,Loamy
+Manipur,Imphal East,Loamy
+Manipur,Imphal West,Loamy
+Manipur,Jiribam,Loamy
+Manipur,Kakching,Loamy
+Manipur,Kamjong,Loamy
+Manipur,Kangpokpi,Loamy
+Manipur,Noney,Loamy
+Manipur,Pherzawl,Loamy
+Manipur,Senapati,Loamy
+Manipur,Tamenglong,Loamy
+Manipur,Tengnoupal,Loamy
+Manipur,Thoubal,Loamy
+Manipur,Ukhrul,Loamy
+Mizoram,,
+Mizoram,Aizawl,Loamy
+Mizoram,Champhai,Loamy
+Mizoram,Kolasib,Loamy
+Mizoram,Lawngtlai,Loamy
+Mizoram,Lunglei,Loamy
+Mizoram,Mamit,Loamy
+Mizoram,Saiha,Loamy
+Mizoram,Serchhip,Loamy
+Tripura,,
+Tripura,Dhalai,Loamy
+Tripura,Gomati,Loamy
+Tripura,Khowai,Loamy
+Tripura,North Tripura,Alluvial
+Tripura,Sepahijala,Loamy
+Tripura,South Tripura,Loamy
+Tripura,Unakoti,Alluvial
+Tripura,West Tripura,Loamy
+Meghalaya,,
+Meghalaya,East Garo Hills,Loamy
+Meghalaya,East Jaintia Hills,Loamy
+Meghalaya,East Khasi Hills,Loamy
+Meghalaya,North Garo Hills,Loamy
+Meghalaya,Ri Bhoi,Loamy
+Meghalaya,South Garo Hills,Loamy
+Meghalaya,South West Gar,Loamy
+Meghalaya,South West Kha,Loamy
+Meghalaya,West Garo Hills,Loamy
+Meghalaya,West Jaintia Hill,Loamy
+Meghalaya,West Khasi Hills,Loamy
+Nagaland,,
+Nagaland,Dimapur,Alluvial
+Nagaland,Kiphire,Loamy
+Nagaland,Kohima,Loamy
+Nagaland,Longleng,Loamy
+Nagaland,Mokokchung,Loamy
+Nagaland,Mon,Loamy
+Nagaland,Peren,Loamy
+Nagaland,Phek,Loamy
+Nagaland,Tuensang,Loamy
+Nagaland,Wokha,Loamy
+Nagaland,Zunheboto,Loamy
+Andaman and Nicobar Islands,,
+Andaman and N,Nicobar,Alluvial
+Andaman and N,North and Middl,Loamy
+Andaman and N,South Andaman,Loamy
+Chandigarh,,
+Chandigarh,Chandigarh,Alluvial
+Dadra and Nagar Haveli and Daman and Diu,,
+Dadra and Naga,Dadra and Naga,Gravel
+Dadra and Naga,Daman,Alluvial
+Dadra and Naga,Diu,Sandy
+Delhi,,
+Delhi,Central Delhi,Alluvial
+Delhi,East Delhi,Alluvial
+Delhi,New Delhi,Alluvial
+Delhi,North Delhi,Alluvial
+Delhi,North East Delhi,Alluvial
+Delhi,North West Delh,Alluvial
+Delhi,Shahdara,Alluvial
+Delhi,South Delhi,Alluvial
+Delhi,South East Delh,Alluvial
+Delhi,South West Delh,Alluvial
+Delhi,West Delhi,Alluvial
+Puducherry,,
+Puducherry,Karaikal,Alluvial
+Puducherry,Mahe,Gravel
+Puducherry,Puducherry,Alluvial
+Puducherry,Yanam,Alluvial
+Lakshadweep,,
+Lakshadweep,Lakshadweep,Sandy
+Rajasthan,,
+Rajasthan,Ajmer,Sandy
+Rajasthan,Alwar,Sandy
+Rajasthan,Banswara,Loamy
+Rajasthan,Baran,Clayey
+Rajasthan,Barmer,Sandy
+Rajasthan,Bharatpur,Alluvial
+Rajasthan,Bhilwara,Loamy
+Rajasthan,Bikaner,Sandy
+Rajasthan,Bundi,Clayey
+Rajasthan,Chittorgarh,Loamy
+Rajasthan,Churu,Sandy
+Rajasthan,Dausa,Sandy
+Rajasthan,Dholpur,Sandy
+Rajasthan,Dungarpur,Loamy
+Rajasthan,Hanumangarh,Sandy
+Rajasthan,Jaipur,Sandy
+Rajasthan,Jaisalmer,Sandy
+Rajasthan,Jalore,Sandy
+Rajasthan,Jhalawar,Clayey
+Rajasthan,Jhunjhunu,Sandy
+Rajasthan,Jodhpur,Sandy
+Rajasthan,Karauli,Alluvial
+Rajasthan,Kota,Clayey
+Rajasthan,Nagaur,Sandy
+Rajasthan,Pali,Sandy
+Rajasthan,Pratapgarh,Loamy
+Rajasthan,Rajsamand,Loamy
+Rajasthan,Sawai Madhopu,Sandy
+Rajasthan,Sikar,Sandy
+Rajasthan,Sirohi,Loamy
+Rajasthan,Sri Ganganagar,Sandy
+Rajasthan,Tonk,Alluvial
+Rajasthan,Udaipur,Loamy

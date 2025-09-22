@@ -1,0 +1,620 @@
+District,Classification
+Anantapur,Lower bound
+Chittoor,Lower bound
+East Godavari,Lower bound
+Guntur,Typical urban slab
+Krishna,Typical urban slab
+Kurnool,Lower bound
+Nellore,Lower bound
+Prakasam,Lower bound
+Srikakulam,Lower bound
+Visakhapatnam,High urban slab
+Vizianagaram,Lower bound
+West Godavari,Lower bound
+YSR Kadapa,Lower bound
+Adilabad,Lower bound
+Bhadradri Kothagudem,Lower bound
+Hyderabad,High urban slab
+Jagtial,Lower bound
+Jangaon,Lower bound
+Jayashankar Bhupalpally,Lower bound
+Jogulamba Gadwal,Lower bound
+Kamareddy,Lower bound
+Karimnagar,Typical urban slab
+Khammam,Typical urban slab
+Mahabubnagar,Lower bound
+Medak,Lower bound
+Medchal–Malkajgiri,Typical urban slab
+Nagarkurnool,Lower bound
+Nalgonda,Typical urban slab
+Nirmal,Lower bound
+Nizamabad,Typical urban slab
+Peddapalli,Lower bound
+Rajanna Sircilla,Lower bound
+Rangareddy,Typical urban slab
+Sangareddy,Lower bound
+Siddipet,Lower bound
+Suryapet,Lower bound
+Vikarabad,Lower bound
+Warangal (Rural),Lower bound
+Warangal (Urban),Typical urban slab
+Yadadri Bhuvanagiri,Lower bound
+Ahmednagar,Typical urban slab
+Akola,Typical urban slab
+Amravati,Typical urban slab
+Aurangabad,Typical urban slab
+Beed,Typical urban slab
+Bhandara,Lower bound
+Buldhana,Typical urban slab
+Chandrapur,Typical urban slab
+Dhule,Typical urban slab
+Gadchiroli,Lower bound
+Gondia,Lower bound
+Hingoli,Lower bound
+Jalgaon,High urban slab
+Jalna,Typical urban slab
+Kolhapur,Typical urban slab
+Latur,Typical urban slab
+Mumbai City,Lower bound
+Mumbai Suburb,High urban slab
+Nagpur,High urban slab
+Nanded,Typical urban slab
+Nandurbar,Lower bound
+Nashik,High urban slab
+Osmanabad,Lower bound
+Palghar,High urban slab
+Parbhani,Typical urban slab
+Pune,High urban slab
+Raigad,Typical urban slab
+Ratnagiri,Typical urban slab
+Sangli,Typical urban slab
+Satara,Typical urban slab
+Sindhudurg,Lower bound
+Solapur,High urban slab
+Thane,High urban slab
+Wardha,Typical urban slab
+Washim,Lower bound
+Yavatmal,Typical urban slab
+Alappuzha,Typical urban slab
+Ernakulam,Typical urban slab
+Idukki,Lower bound
+Kannur,Typical urban slab
+Kasaragod,Lower bound
+Kollam,Typical urban slab
+Kottayam,Lower bound
+Kozhikode,Typical urban slab
+Malappuram,High urban slab
+Palakkad,Typical urban slab
+Pathanamthitta,Lower bound
+Thiruvananthapuram,Typical urban slab
+Thrissur,Typical urban slab
+Wayanad,Lower bound
+Erode,Typical urban slab
+Kallakurichi,Lower bound
+Kanchipuram,Typical urban slab
+Kanyakumari,Lower bound
+Karur,Lower bound
+Krishnagiri,Lower bound
+Madurai,Typical urban slab
+Nagapattinam,Lower bound
+Namakkal,Lower bound
+Nilgiris,Lower bound
+Perambalur,Lower bound
+Pudukkottai,Lower bound
+Ramanathapuram,Lower bound
+Ranipet,Lower bound
+Salem,Typical urban slab
+Sivaganga,Lower bound
+Tenkasi,Lower bound
+Thanjavur,Typical urban slab
+Theni,Lower bound
+Thoothukudi,Lower bound
+Tiruchirappalli,Typical urban slab
+Tirunelveli,Typical urban slab
+Tirupattur,Typical urban slab
+Tiruppur,Typical urban slab
+Tiruvallur,Typical urban slab
+Tiruvannamalai,Typical urban slab
+Tiruvarur,Lower bound
+Vellore,Typical urban slab
+Viluppuram,Typical urban slab
+Virudhunagar,Lower bound
+Bagalkot,Lower bound
+Ballari,Typical urban slab
+Belagavi,High urban slab
+Bengaluru Rural,Typical urban slab
+Bengaluru Urban,High urban slab
+Bidar,Lower bound
+Chamarajanagar,Lower bound
+Chikkaballapur,Lower bound
+Chikkamagaluru,Lower bound
+Chitradurga,Lower bound
+Dakshina Kannada,Typical urban slab
+Davanagere,Typical urban slab
+Dharwad,Typical urban slab
+Gadag,Lower bound
+Hassan,Lower bound
+Haveri,Lower bound
+Kalaburagi,Typical urban slab
+Kodagu,Lower bound
+Kolar,Lower bound
+Koppal,Lower bound
+Mandya,Lower bound
+Mysuru,Typical urban slab
+Raichur,Lower bound
+Ramanagara,Lower bound
+Shivamogga,Lower bound
+Tumakuru,Typical urban slab
+Udupi,Lower bound
+Uttara Kannada,Lower bound
+Vijayapura,Typical urban slab
+Yadgir,Lower bound
+North Goa,Lower bound
+South Goa,Lower bound
+Angul,Lower bound
+Balangir,Lower bound
+Balasore,Typical urban slab
+Bargarh,Lower bound
+Bhadrak,Lower bound
+Boudh,Lower bound
+Cuttack,Typical urban slab
+Debagarh,Lower bound
+Dhenkanal,Lower bound
+Gajapati,Lower bound
+Ganjam,Typical urban slab
+Jagatsinghpur,Lower bound
+Jajpur,Lower bound
+Jharsuguda,Lower bound
+Kalahandi,Lower bound
+Kandhamal,Lower bound
+Kendrapara,Lower bound
+Kendujhar,Lower bound
+Khordha,Typical urban slab
+Koraput,Lower bound
+Malkangiri,Lower bound
+Mayurbhanj,Typical urban slab
+Nabarangpur,Lower bound
+Nayagarh,Lower bound
+Nuapada,Lower bound
+Puri,Lower bound
+Rayagada,Lower bound
+Sambalpur,Lower bound
+Subarnapur,Lower bound
+Sundargarh,Typical urban slab
+Balod,Lower bound
+Baloda Bazar,Lower bound
+Balrampur,Lower bound
+Bastar,Lower bound
+Bemetara,Lower bound
+Bijapur,Lower bound
+Bilaspur,Lower bound
+Dantewada,Lower bound
+Dhamtari,Lower bound
+Durg,Lower bound
+Gariaband,Lower bound
+Janjgir-Champa,Lower bound
+Jashpur,Lower bound
+Kabirdham,Lower bound
+Kanker,Lower bound
+Kondagaon,Lower bound
+Korba,Lower bound
+Koriya,Lower bound
+Mahasamund,Lower bound
+Mungeli,Lower bound
+Narayanpur,Lower bound
+Raigarh,Lower bound
+Raipur,Typical urban slab
+Rajnandgaon,Lower bound
+Sukma,Lower bound
+Surajpur,Lower bound
+Surguja,Typical urban slab
+Alipurduar,Lower bound
+Bankura,Typical urban slab
+Birbhum,Typical urban slab
+Cooch Behar,Typical urban slab
+Dakshin Dinajpur,Lower bound
+Darjeeling,Lower bound
+Hooghly,Typical urban slab
+Howrah,Typical urban slab
+Jalpaiguri,Typical urban slab
+Jhargram,Lower bound
+Kalimpong,Lower bound
+Kolkata,High urban slab
+Malda,Typical urban slab
+Murshidabad,High urban slab
+Nadia,Typical urban slab
+North 24 Parganas,High urban slab
+Paschim Bardhaman,Lower bound
+Paschim Medinipur,Typical urban slab
+Purba Bardhaman,Typical urban slab
+Purba Medinipur,Typical urban slab
+Purulia,Lower bound
+South 24 Parganas,High urban slab
+Uttar Dinajpur,Typical urban slab
+Bokaro,Typical urban slab
+Chatra,Lower bound
+Deoghar,Lower bound
+Dhanbad,Typical urban slab
+Dumka,Lower bound
+East Singhbhum,Typical urban slab
+Garhwa,Lower bound
+Giridih,Typical urban slab
+Godda,Lower bound
+Gumla,Lower bound
+Hazaribagh,Lower bound
+Jamtara,Lower bound
+Khunti,Lower bound
+Koderma,Lower bound
+Latehar,Lower bound
+Lohardaga,Lower bound
+Pakur,Lower bound
+Palamu,Lower bound
+Ramgarh,Lower bound
+Ranchi,Typical urban slab
+Sahebganj,Lower bound
+Seraikela Kharsawan,Lower bound
+Simdega,Lower bound
+West Singhbhum,Lower bound
+Araria,Typical urban slab
+Arwal,Lower bound
+Aurangabad,Typical urban slab
+Banka,Lower bound
+Begusarai,Typical urban slab
+Bhagalpur,Typical urban slab
+Bhojpur,Typical urban slab
+Buxar,Lower bound
+Darbhanga,Typical urban slab
+East Champaran,Typical urban slab
+Gaya,High urban slab
+Gopalganj,Typical urban slab
+Jamui,Lower bound
+Jehanabad,Lower bound
+Kaimur,Lower bound
+Katihar,Typical urban slab
+Khagaria,Lower bound
+Kishanganj,Lower bound
+Lakhisarai,Lower bound
+Madhepura,Typical urban slab
+Madhubani,High urban slab
+Munger,Lower bound
+Muzaffarpur,High urban slab
+Nalanda,Typical urban slab
+Nawada,Typical urban slab
+Patna,High urban slab
+Purnia,Typical urban slab
+Rohtas,Typical urban slab
+Saharsa,Lower bound
+Samastipur,High urban slab
+Saran,Typical urban slab
+Sheikhpura,Lower bound
+Sheohar,Lower bound
+Sitamarhi,Typical urban slab
+Siwan,Typical urban slab
+Supaul,Typical urban slab
+Vaishali,Typical urban slab
+West Champaran,Typical urban slab
+Agra,High urban slab
+Aligarh,Typical urban slab
+Ambedkar Nagar,Typical urban slab
+Amethi,Typical urban slab
+Amroha,Lower bound
+Auraiya,Lower bound
+Ayodhya,Typical urban slab
+Azamgarh,High urban slab
+Baghpat,Lower bound
+Bahraich,Typical urban slab
+Ballia,Typical urban slab
+Balrampur,Lower bound
+Banda,Lower bound
+Barabanki,Typical urban slab
+Bareilly,High urban slab
+Basti,Typical urban slab
+Bhadohi,Lower bound
+Bijnor,Typical urban slab
+Budaun,Typical urban slab
+Bulandshahr,Typical urban slab
+Chandauli,Lower bound
+Chitrakoot,Lower bound
+Deoria,Typical urban slab
+Etah,Lower bound
+Etawah,Lower bound
+Farrukhabad,Lower bound
+Fatehpur,Lower bound
+Firozabad,Typical urban slab
+Gautam Buddh Nagar,Lower bound
+Ghaziabad,High urban slab
+Ghazipur,Typical urban slab
+Gonda,Typical urban slab
+Gorakhpur,High urban slab
+Hamirpur,Lower bound
+Hapur,Lower bound
+Hardoi,High urban slab
+Hathras,Lower bound
+Jalaun,Lower bound
+Jaunpur,High urban slab
+Jhansi,Lower bound
+Kannauj,Lower bound
+Kanpur Dehat,Lower bound
+Kanpur Nagar,High urban slab
+Kasganj,Lower bound
+Kaushambi,Lower bound
+Kheri,High urban slab
+Kushinagar,Typical urban slab
+Lalitpur,Lower bound
+Lucknow,High urban slab
+Maharajganj,Typical urban slab
+Mahoba,Lower bound
+Mainpuri,Lower bound
+Mathura,Typical urban slab
+Mau,Lower bound
+Meerut,Typical urban slab
+Mirzapur,Typical urban slab
+Moradabad,High urban slab
+Muzaffarnagar,High urban slab
+Pilibhit,Typical urban slab
+Pratapgarh,Typical urban slab
+Prayagraj,High urban slab
+Raebareli,Typical urban slab
+Rampur,Typical urban slab
+Saharanpur,Typical urban slab
+Sambhal,Typical urban slab
+Sant Kabir Nagar,Lower bound
+Shahjahanpur,Typical urban slab
+Shamli,Lower bound
+Shrawasti,Lower bound
+Siddharthnagar,Typical urban slab
+Sitapur,High urban slab
+Sonbhadra,Lower bound
+Sultanpur,Typical urban slab
+Unnao,Typical urban slab
+Varanasi,Typical urban slab
+Almora,Lower bound
+Bageshwar,Lower bound
+Chamoli,Lower bound
+Champawat,Lower bound
+Dehradun,Lower bound
+Haridwar,Lower bound
+Nainital,Lower bound
+Pauri Garhwal,Lower bound
+Pithoragarh,Lower bound
+Rudraprayag,Lower bound
+Tehri Garhwal,Lower bound
+Udham Singh Nagar,Lower bound
+Uttarkashi,Lower bound
+Bilaspur,Lower bound
+Chamba,Lower bound
+Hamirpur,Lower bound
+Kangra,Lower bound
+Kinnaur,Lower bound
+Kullu,Lower bound
+Lahaul and Spiti,Lower bound
+Mandi,Lower bound
+Shimla,Lower bound
+Sirmaur,Lower bound
+Solan,Lower bound
+Una,Lower bound
+Ambala,Lower bound
+Bhiwani,Lower bound
+Charkhi Dadri,Lower bound
+Faridabad,Lower bound
+Fatehabad,Lower bound
+Gurugram,Lower bound
+Hisar,Lower bound
+Jhajjar,Lower bound
+Jind,Lower bound
+Kaithal,Lower bound
+Karnal,Lower bound
+Kurukshetra,Lower bound
+Mahendragarh,Lower bound
+Mewat,Lower bound
+Palwal,Lower bound
+Panchkula,Lower bound
+Panipat,Lower bound
+Rewari,Lower bound
+Rohtak,Lower bound
+Sirsa,Lower bound
+Sonipat,Lower bound
+Yamunanagar,Lower bound
+Amritsar,Typical urban slab
+Barnala,Lower bound
+Bathinda,Lower bound
+Faridkot,Lower bound
+Fatehgarh Sahib,Lower bound
+Fazilka,Lower bound
+Ferozepur,Typical urban slab
+Gurdaspur,Typical urban slab
+Hoshiarpur,Lower bound
+Jalandhar,Typical urban slab
+Kapurthala,Lower bound
+Ludhiana,Typical urban slab
+Mansa,Lower bound
+Moga,Lower bound
+Muktsar,Lower bound
+Pathankot,Lower bound
+Patiala,Typical urban slab
+Rupnagar,Lower bound
+Sahibzada Ajit Singh Nagar,Lower bound
+Sangrur,Typical urban slab
+Shahid Bhagat Singh Nagar,Lower bound
+Tarn Taran,Lower bound
+Anantnag,Lower bound
+Bandipora,Lower bound
+Baramulla,Lower bound
+Budgam,Lower bound
+Doda,Lower bound
+Ganderbal,Lower bound
+Jammu,Lower bound
+Kathua,Lower bound
+Kishtwar,Lower bound
+Kulgam,Lower bound
+Kupwara,Lower bound
+Poonch,Lower bound
+Pulwama,Lower bound
+Rajouri,Lower bound
+Ramban,Lower bound
+Reasi,Lower bound
+Samba,Lower bound
+Shopian,Lower bound
+Srinagar,Lower bound
+Udhampur,Lower bound
+Kargil,Lower bound
+Leh,Lower bound
+East Sikkim,Lower bound
+North Sikkim,Lower bound
+South Sikkim,Lower bound
+West Sikkim,Lower bound
+Baksa,Lower bound
+Barpeta,Lower bound
+Biswanath,Lower bound
+Bongaigaon,Lower bound
+Cachar,Lower bound
+Charaideo,Lower bound
+Chirang,Lower bound
+Darrang,Lower bound
+Dhemaji,Lower bound
+Dhubri,Lower bound
+Dibrugarh,Lower bound
+Dima Hasao,Lower bound
+Goalpara,Lower bound
+Golaghat,Lower bound
+Hailakandi,Lower bound
+Hojai,Lower bound
+Jorhat,Lower bound
+Kamrup Metropolitan,Lower bound
+Kamrup,Lower bound
+Karbi Anglong,Lower bound
+Karimganj,Lower bound
+Kokrajhar,Lower bound
+Lakhimpur,Lower bound
+Majuli,Lower bound
+Morigaon,Lower bound
+Nagaon,Typical urban slab
+Nalbari,Lower bound
+Sivasagar,Lower bound
+Sonitpur,Lower bound
+South Salmara-Mankachar,Lower bound
+Tinsukia,Lower bound
+Udalguri,Lower bound
+West Karbi Anglong,Lower bound
+Anjaw,Lower bound
+Changlang,Lower bound
+Dibang Valley,Lower bound
+East Kameng,Lower bound
+East Siang,Lower bound
+Kra Daadi,Lower bound
+Kurung Kumey,Lower bound
+Lohit,Lower bound
+Longding,Lower bound
+Lower Dibang Valley,Lower bound
+Lower Subansiri,Lower bound
+Namsai,Lower bound
+Papum Pare,Lower bound
+Siang,Lower bound
+Tawang,Lower bound
+Tirap,Lower bound
+Upper Siang,Lower bound
+Upper Subansiri,Lower bound
+West Kameng,Lower bound
+West Siang,Lower bound
+Bishnupur,Lower bound
+Chandel,Lower bound
+Churachandpur,Lower bound
+Imphal East,Lower bound
+Imphal West,Lower bound
+Jiribam,Lower bound
+Kakching,Lower bound
+Kamjong,Lower bound
+Kangpokpi,Lower bound
+Noney,Lower bound
+Pherzawl,Lower bound
+Senapati,Lower bound
+Tamenglong,Lower bound
+Tengnoupal,Lower bound
+Thoubal,Lower bound
+Ukhrul,Lower bound
+Dhalai,Lower bound
+Gomati,Lower bound
+Khowai,Lower bound
+North Tripura,Lower bound
+Sepahijala,Lower bound
+South Tripura,Lower bound
+Unakoti,Lower bound
+West Tripura,Lower bound
+East Garo Hills,Lower bound
+East Jaintia Hills,Lower bound
+East Khasi Hills,Lower bound
+North Garo Hills,Lower bound
+Ri Bhoi,Lower bound
+South Garo Hills,Lower bound
+South West Garo Hills,Lower bound
+South West Khasi Hills,Lower bound
+West Garo Hills,Lower bound
+West Jaintia Hills,Lower bound
+West Khasi Hills,Lower bound
+Dimapur,Lower bound
+Kiphire,Lower bound
+Kohima,Lower bound
+Longleng,Lower bound
+Mokokchung,Lower bound
+Mon,Lower bound
+Peren,Lower bound
+Phek,Lower bound
+Tuensang,Lower bound
+Wokha,Lower bound
+Zunheboto,Lower bound
+Nicobar,Lower bound
+North and Middle Andaman,Lower bound
+South Andaman,Lower bound
+Chandigarh,Lower bound
+Dadra and Nagar Haveli,Lower bound
+Daman,Lower bound
+Diu,Lower bound
+Central Delhi,Lower bound
+East Delhi,Typical urban slab
+New Delhi,Lower bound
+North Delhi,Lower bound
+North East Delhi,Typical urban slab
+North West Delhi,Typical urban slab
+Shahdara,Typical urban slab
+South Delhi,Typical urban slab
+South East Delhi,Typical urban slab
+South West Delhi,Typical urban slab
+West Delhi,Typical urban slab
+Karaikal,Lower bound
+Mahe,Lower bound
+Puducherry,Lower bound
+Yanam,Lower bound
+Lakshadweep,Lower bound
+Ajmer,Typical urban slab
+Alwar,Typical urban slab
+Banswara,Lower bound
+Baran,Lower bound
+Barmer,Typical urban slab
+Bharatpur,Typical urban slab
+Bhilwara,Typical urban slab
+Bikaner,Typical urban slab
+Bundi,Lower bound
+Chittorgarh,Lower bound
+Churu,Typical urban slab
+Dausa,Lower bound
+Dholpur,Lower bound
+Dungarpur,Lower bound
+Hanumangarh,Lower bound
+Jaipur,High urban slab
+Jaisalmer,Lower bound
+Jalore,Lower bound
+Jhalawar,Lower bound
+Jhunjhunu,Typical urban slab
+Jodhpur,Typical urban slab
+Karauli,Lower bound
+Kota,Typical urban slab
+Nagaur,Typical urban slab
+Pali,Typical urban slab
+Pratapgarh,Lower bound
+Rajsamand,Lower bound
+Sawai Madhopur,Lower bound
+Sikar,Typical urban slab
+Sirohi,Lower bound
+Sri Ganganagar,Lower bound
+Tonk,Lower bound
+Udaipur,Typical urban slab
