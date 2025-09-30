@@ -18,7 +18,12 @@ class EstimateRequest(BaseModel):
     roof_type: str
 
 app = FastAPI()
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
+@app.get("/", response_class=HTMLResponse)
+async def read_root():
+    with open("templates/calculate.html", "r") as f:
+        return f.read()
 # CORS setup
 app.add_middleware(
     CORSMiddleware,
