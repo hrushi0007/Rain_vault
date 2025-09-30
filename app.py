@@ -1,11 +1,53 @@
-from datetime import date, datetime
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import HTMLResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 from typing import Dict, Any, Optional
 import pandas as pd
 import requests
 import math
+from datetime import date, datetime
+from pydantic import BaseModel
+
+class EstimateRequest(BaseModel):
+    district: str
+    rooftop_area_sqm: float
+    people: int
+    open_space_sqm: float
+    roof_type: str
+
+app = FastAPI()
+
+# CORS setup
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+@app.post("/estimate")
+async def estimate(req: EstimateRequest):
+    # Your calculation logic goes here
+    return {"status": "ok", "data_received": req.dict()}
+
+
+# Serve static files (optional: for .css, .js, videos)
+app.mount("/static", StaticFiles(directory="."), name="static")
+
+# Serve the home page at "/"
+@app.get("/", response_class=HTMLResponse)
+async def read_root():
+    with open("home.html", "r") as f:
+        return f.read()
+
+# Serve the calculate page
+@app.get("/calculate", response_class=HTMLResponse)
+async def read_calculate():
+    with open("calculate.html", "r") as f:
+        return f.read()
 
 # ---------------------------
 # Load datasets (placeholder for actual file loading)
